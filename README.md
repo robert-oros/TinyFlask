@@ -4,6 +4,14 @@ TinyFlask is a lightweight, Flask-inspired web framework for Python. It provides
 
 > Note: The original repository for this project was hosted on a private Bitbucket account within an organization, but access was lost. Consequently, a new repository has been established to continue development and maintain the application.
 
+## Table of Contents
+
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+
 ## Features
 
 - Simple routing decorator syntax
